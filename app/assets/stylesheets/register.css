@@ -1,0 +1,64 @@
+.coontainer-32 {
+    margin: auto;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.coontainer-32 .sign-bolim:nth-child(2) {
+    width: 400px;
+    border: 1px solid black;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 0px black;
+    
+}
+
+.coontainer-32 .sign-bolim3 {
+    width: 400px;
+    border: 1px solid black;
+    padding: 60px 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 0px black;
+    
+}
+
+/* .body-2 {
+    margin-top: 200px;
+    background-image: url(qqq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+
+.h-9{
+    text-align: center;
+    font-size: 30px;
+}
+
+.body-2 .container-2 .actions {
+    text-align: center;
+}
+
+/* .body-2 .h1-uchun1 {
+    position: absolute;
+    color: red;
+    font-size: 100px;
+} */
+
+.h1-uchun1 {
+    text-transform: uppercase;
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 80px;
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    font-size: bold;
+  }

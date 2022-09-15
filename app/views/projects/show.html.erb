@@ -1,0 +1,29 @@
+<body class="field22">
+    <%= stylesheet_link_tag "style" %>
+<%= render 'form' %>
+
+
+  
+
+  <div class="row-21">
+    <h3>Basecamp</h3>
+    
+  </div>
+
+  <div class="collapsers">
+
+  <div class="row-22">
+    <div>
+      <%= link_to "Back", new_user_session_path, class: "btn btn-primary" %>
+      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" style="margin-right: 10px;">Edit Project</button>
+    </div>
+    <%= button_to "Delete Project", @project, method: :delete, style: "float: right;", class: "btn btn-danger" %>
+  </div>
+
+
+    <h1 style="text-align:center; font-size: 120px; color: rgb(53, 209, 236);" class="mt-5"><%= @project.name %></h1>
+
+  </div>
+
+</body>
+

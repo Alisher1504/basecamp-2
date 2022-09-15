@@ -1,0 +1,79 @@
+
+.clip {
+    width: 550px;
+    height: 650px;
+    background: white;
+    border-radius: 10px;
+    clip-path: circle(55.8% at 100% 0);
+} 
+
+.body-glavni .container-glavni .wrapper .clip .cds{
+    position: absolute;
+    top: 420px;
+    right: 700px;
+    background-color:  rgb(32, 181, 218);
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.body-glavni .container-glavni .wrapper .clip .cds:hover{
+    box-shadow: 0px 0px 40px 0px rgb(32, 181, 218);
+}
+
+.body-glavni .container-glavni .wrapper .clip .rang-12 {
+    color: black;
+}
+
+.body-glavni .wrapper {
+    background-color: rgb(32, 181, 218);
+    width: 700px;
+    height: 35vh;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 0px white;
+    margin-top: 300px;
+}
+
+.body-glavni .wrapper .clippath {
+    width: 400px;
+    padding-top: 30px;
+    padding-left: 50px;
+    
+}
+
+.body-glavni .container-glavni {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+}
+
+.body-glavni .container-glavni .wrapper .clippath .btn-23 {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+.body-glavni .container-glavni .wrapper .clippath .btn-24:nth-child(1) {
+    background-color: white;
+
+}
+
+.body-glavni .container-glavni .h2{
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+.b1 {
+    position: absolute;
+    top: 50px;
+    right: 150px;
+    font-size: 120px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(48, 146, 236);
+}

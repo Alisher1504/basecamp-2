@@ -1,0 +1,207 @@
+.body-qismi {
+    background-image: url(hero-bg.jpg);
+}
+
+.body-qismi .container .malumot .col1{
+    background-color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.container443 .contentlaruchun{
+    border: 2px solid black;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.body-qismi .container .malumot .h1-1 {
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.body-qismi .container .nav-2 {
+    display: flex;
+    justify-content: end;
+}
+
+.body-qismi .container .nav-2 .btn:nth-child(1) {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+.body-qismi .container .nav-2 .btn:nth-child(2) {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+.body-qismi .container .nav-2 .btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.body-qismi .container .malumot .col1 .btn {
+    background-color: #094C59;
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.body-qismi .container .malumot .col1 .btn:hover {
+    background-color: red;
+    color: white;
+}
+
+.body-qismi .editslar{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.body-qismi .editslar .btn {
+   font-weight: bold;
+}
+
+.body-qismi .editslar .btn:hover {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.body-qismi .container14 {
+    background-color: white;
+    margin-top: 20px;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.container3322 {
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.body-qismi .h1-4{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.body-qismi .ortaga1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+}
+
+.body-qismi .ortaga {
+    background-color: white;
+    min-width: 300px;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+
+.ends {
+    display: flex;
+    justify-content: end;
+}
+
+.ends .btn:hover{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.sozlar2 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rot {
+    background-color: black;
+}
+
+.body-qismi .btn-88 .btn:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.navber-body{
+    height: 3000px;
+}
+
+.navber-body .nav-link {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.navber-body .act{
+    margin-right: 450px;
+}
+
+.navber-body {
+    background-image: url(hero-bg.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.row-21{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row-22 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    padding: 10px 20px;
+}
+
+.collapsers {
+    width: 100%;
+    height: 350px;
+    box-shadow: 0px 0px 20px 0px black;
+    background: white !important;   
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+.field22{
+    background-color: rgb(235, 239, 235);
+}
+
+
+.gradient{
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.container-2{
+    border: 1px solid black;
+    width: 500px;
+    padding: 20px 30px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 0px black;
+}
